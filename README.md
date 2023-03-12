@@ -4,6 +4,11 @@
 
 This repo consists of All the smart contracts that I have coded till now. I will add more smart contracts in future.
 
+# Contribution
+This repo is open for Contribution. Please contribute if you believe in open source. Just make sure you follow the format:-
+1) Parent Folder with indexing and File and md
+2) Details about the sol file in md
+
 # About the Developer
 
 Hello everyone, myself **Mohammad Ayaan Siddiqui** from India. I am a Full Stack WEB3 developer and a **DECENTRALIZATION MAXI**. I talk about WEB3, Cryptocurrencies, Javascript and Python and currently learning web3.
